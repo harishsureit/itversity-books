@@ -11,3 +11,4 @@ You can also sign up for our courses by going to this [link](https://kaizen.itve
 * TBD: Setting up Jupyter Lab environment (if you don't want to use our labs)
 * Clone this repository `git clone https://github.com/dgadiraju/itversity-books.git`
 * Follow this [video](https://youtu.be/H49JBp6OIHY) to understand how to use starter kits. Click on the below image.
+Hi
